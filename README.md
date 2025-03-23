@@ -13,7 +13,7 @@ This project automates the process of searching for job postings and updating a 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/job-search-automation.git
+    git clone https://github.com/njange/job-search-automation.git
     cd job-search-automation
     ```
 
